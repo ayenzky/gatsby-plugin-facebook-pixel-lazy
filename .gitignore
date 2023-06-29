@@ -1,3 +1,2 @@
 node_modules
-/gatsby-browser.js
-/gatsby-ssr.js
+.vscode

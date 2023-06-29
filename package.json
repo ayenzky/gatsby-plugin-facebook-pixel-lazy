@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-plugin-facebook-pixel",
+  "name": "gatsby-plugin-facebook-pixel-lazy",
   "description": "Gatsby plugin to add facebook pixel onto a site",
-  "version": "1.0.8",
+  "version": "1.1.3",
   "author": "Gabe Barrientos",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gscopet/gatsby-plugin-facebook-pixel"
+    "url": "https://github.com/ayenzky/gatsby-plugin-facebook-pixel-lazy"
   }
 }
